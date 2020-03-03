@@ -1,0 +1,6 @@
+div[name="panel"]
+{
+  background-color: black;
+  color: white;
+  height: 50px;
+}
