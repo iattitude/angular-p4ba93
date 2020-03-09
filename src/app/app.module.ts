@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { PanelComponent } from './panel/panel.component';
 import { WorkbenchComponent } from './workbench/workbench.component';
-import { WorkbenchCComponent } from './workbench-c/workbench-c.component';
+import { WorkbenchCComponent } from './workbenchc/workbenchc.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
